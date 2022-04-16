@@ -1,6 +1,6 @@
 #DEMO PROJECT
 
-Latihan Git .
+Latihan Git 
 
 
 
